@@ -1,1 +1,1 @@
-/home/etorres/Documents/in-work/rust/reminder-app/target/debug/reminder-app: /home/etorres/Documents/in-work/rust/reminder-app/src/functions.rs /home/etorres/Documents/in-work/rust/reminder-app/src/main.rs
+/home/etorres/Documents/in-work/rust/cli-reminders-rust/target/debug/reminder-app: /home/etorres/Documents/in-work/rust/cli-reminders-rust/src/functions.rs /home/etorres/Documents/in-work/rust/cli-reminders-rust/src/main.rs
